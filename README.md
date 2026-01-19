@@ -1,32 +1,34 @@
-\# Minecraft Server Ban Checker
+# Minecraft Server Ban Checker
 
+Check if you're banned on Minecraft servers using your Microsoft/Xbox account. It connects via the Minecraft protocol to see if the server allows you in or kicks you with a ban message.
 
+## How to use
 
-Check if you're banned on Minecraft servers. Works with Java Edition accounts.
+1. **Install requirements**:
+   ```bash
+   pip install -r requirements.txt
+   ```
 
+2. **Add servers**:
+   Put server addresses in `servers.txt` (one per line).
 
+3. **Run it**:
+   ```bash
+   python ban_checker.py
+   ```
 
-\## What it does
+4. **Login**:
+   - Safest way: Use [1] Browser Login. Open the link, log in, and paste the final URL back.
+   - Or use email/password directly if you prefer.
 
+## What it does
+- Checks multiple servers without fully joining.
+- Saves results to `unbanned.txt`, `banned.txt`, etc.
+- Includes `server_verifier.py` to clean up your list of offline servers.
 
+## Requirements
+- Python 3.8+
+- A paid Minecraft Java account.
 
-Connects to servers and checks your ban status without actually joining. Saves results to text files so you can see which servers you can play on.
-
-
-
-\## Requirements
-
-
-
-\- Python 3.8 or newer
-
-\- Minecraft Java Edition (the one you bought, not Game Pass)
-
-\- Microsoft account
-
-
-
-\## Setup
-
-```bash
-
+---
+MIT License. Use responsibly.
