@@ -1,0 +1,35 @@
+# Python stuff
+__pycache__/
+*.py[cod]
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+
+# Virtual environments
+venv/
+env/
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Don't upload results
+unbanned.txt
+banned.txt
+kicked.txt
+whitelisted.txt
+timeout.txt
+down.txt
+rate_limited.txt
+servers_removed.txt
+servers_verified.txt
+
+# Keep the original server list though
+!servers.txt

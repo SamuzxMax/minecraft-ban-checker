@@ -1,0 +1,84 @@
+# Major Network Servers
+hypixel.net
+mineplex.com
+cubecraft.net
+wynncraft.com
+hoplite.gg
+minemen.club
+
+# Large Communities
+pika-network.net
+jartexnetwork.com
+gommehd.net
+lunar.gg
+mccentral.org
+purpleprison.net
+earthmc.net
+manacube.net
+extremecraft.net
+
+# Popular Servers
+lemoncloud.org
+skykingdoms.net
+snapcraft.net
+lifestealsmp.com
+kiwismp.fun
+bedwarspractice.club
+coldnetwork.net
+syuu.net
+play.invadedlands.net
+munchymc.com
+foxcraft.net
+penguin.gg
+opblocks.com
+grandtheftmc.net
+fadecloud.com
+mineville.org
+skyblock.net
+
+# International Servers
+pokecentral.org
+smashmc.eu
+timolia.de
+bausucht.net
+varilx.net
+
+# Anarchy/Vanilla
+2b2t.org
+9b9t.com
+constantiam.net
+purityvanilla.com
+minewind.com
+
+# Network Hubs
+play.cubecraft.net
+mc.hypixel.net
+play.hypixel.net
+hub.mcs.gg
+eu.mineplex.com
+
+# Mini-game Servers
+stray.gg
+play.mccisland.net
+play.wynncraft.com
+play.phanaticmc.com
+play.minesuperior.com
+play.mineteria.com
+play.havocmc.net
+
+# Additional Popular
+playit.gg
+practice.gg
+viper.gg
+zonix.gg
+archermc.net
+faithfulmc.net
+saicopvp.com
+versai.gg
+pandahut.net
+applemc.fun
+wildprison.net
+pvpwars.net
+jartex.fun
+opmines.com
+herobrine.org
